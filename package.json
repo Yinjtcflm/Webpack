@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "webpack": "4",
+    "webpack-cli": "3"
+  },
+  "name": "6-30webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build":"rm -rf dist && webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
